@@ -4,6 +4,7 @@ ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything 
 If the function is passed a valid PIN string, return true, else return false.
 
 Examples (Input --> Output)
+<br>
 "1234"   -->  true
 <br>
 "12345"  -->  false
