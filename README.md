@@ -5,5 +5,7 @@ If the function is passed a valid PIN string, return true, else return false.
 
 Examples (Input --> Output)
 "1234"   -->  true
+<br>
 "12345"  -->  false
+<br>
 "a234"   -->  false
